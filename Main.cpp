@@ -1,6 +1,3 @@
-#pragma once
-
-#include <stdio.h>
 #include <intrin.h>
 #include <string>
 #include <tchar.h>
